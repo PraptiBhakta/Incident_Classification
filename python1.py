@@ -6,3 +6,8 @@ def model():
     print('Classification model')
 
 model()
+
+def model_selection():
+    print('Classification')
+
+model_selection()   
